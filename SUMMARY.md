@@ -134,7 +134,7 @@
 
 
 ---
-* [logical thinking](docs/logical_thinking/README.md)
+* [Logical Thinking](docs/logical_thinking/README.md)
   * [黄金思维圈](docs/logical_thinking/1-thinking.md)
 
 

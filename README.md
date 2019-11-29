@@ -15,9 +15,10 @@
 * Data Analysis
 * Machine Learning
 * Big Data
+* Git
+* Application
 * Product
-* Others
-* 思维
+* Logical Thinking
 
 
 
