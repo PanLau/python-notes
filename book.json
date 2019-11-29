@@ -1,0 +1,34 @@
+{  "title": "notes",
+    "author": "liupan",
+    "links": {
+        "sidebar": {
+            "Home": "https://github.com/PanLau/python-notes"
+        }
+    },
+    
+    "plugins": [
+       
+        "chapter-fold",
+        "-sharing",
+        "sharing-plus",
+        "include-codeblock",
+        "ace",
+        "quiz",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "collapsible-menu",
+        "-livereload",
+        "prism",
+        "-highlight",
+        "url-embed",
+        "page-footer-ex"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        }
+    }
+
+}
+

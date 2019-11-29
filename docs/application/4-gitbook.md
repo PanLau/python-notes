@@ -114,5 +114,15 @@ git reset 版本号
 
 注：参考博客：https://www.cnblogs.com/NewBigLiang/p/7015887.html
 
+
+## 自动生成目录
+安装
+```
+npm install -g gitbook-summary  
+```
+使用
+```
+book sm -i node_modules
+```
 ##### 以上，谢谢！
 
