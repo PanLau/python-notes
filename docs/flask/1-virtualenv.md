@@ -79,3 +79,20 @@ $ workon
 ```
 ##### 以上，谢谢！
 
+# 虚拟环境 for Windows
+pip install virtualenv
+
+ 
+virtualenv  12306_tester
+cd 12306_tester/
+cd Scripts/
+virtualenv  -p  C:\\Users\\liupan\\AppData\\Local\\Programs\\Python\\Python37\\python.exe 12306_tester
+
+
+pip install virtualenvwrapper-win
+
+
+
+
+C:\Users\Administrator\AppData\Local\Programs\
+C:\Users\liupan\AppData\Local\Programs\Python\Python37\Lib\venv\scripts\nt

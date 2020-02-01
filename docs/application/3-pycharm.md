@@ -81,7 +81,20 @@ from:search_tab
 $1:$2
 ```
 
-## Mac键盘符号和修饰键说明
+### 创建.py文件自动添加文件头注释
+PyCharm->File->Setting
+Editor -> File and Code Templates ->Python Script
+
+```
+# -*- coding: utf-8 -*-
+# @Time    : ${DATE} ${TIME}
+# @Author  : xxx
+# @Email    : xxx@xxx.com
+# @File    : ${NAME}.py
+# @Software: ${PRODUCT_NAME}
+```
+
+### Mac键盘符号和修饰键说明
 
 ![](/assets/macOS快捷键.jpg)
 

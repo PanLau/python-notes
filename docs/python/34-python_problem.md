@@ -207,6 +207,7 @@ plt.rcParams['font.family'] = ['Arial Unicode MS', 'sans-serif'] #  全局设置
 ```
 
 ### 7.Windows下python安装PyCrypto加密模块以及使用 & cann't import name '_AES'
+
 解决方法：
 ```
 pip3 install -i https://pypi.douban.com/simple pycryptodome 
@@ -314,13 +315,16 @@ ln -s /usr/local/python-3.6/bin/gunicorn /usr/local/bin/
 ```
 
 ### 13.No moudle name Crypto
+```
 pip3 install pycryptodome 
 快速方式:pip3 install -i https://pypi.douban.com/simple pycryptodome 
 PyCrypto 已死,请替换为 PyCryptodome 
 pip3 install 模块 –upgrade –target=”指定的目录”
 
 
-from Crypto.PublicKey import RSA from Crypto.Signature import
+from Crypto.PublicKey import RSA 
+from Crypto.Signature import
+```
 ### 14.xxl-job
 ```
 su - liupan

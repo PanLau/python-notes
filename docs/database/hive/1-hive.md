@@ -4,7 +4,7 @@
 ### 累计、分组求和
 > 参考文章:https://blog.csdn.net/abc200941410128/article/details/78408942?utm_source=blogxgwz0
 
-### SQL 按字段分组后取每组内最大或最小的值
+### SQL 按字段分组后取每组内最大或最小的值（组内排序）
 ```
 SELECT t1.OrderId,t1.QueueId 
 FROM (
@@ -13,3 +13,6 @@ FROM (
 ) t1
 WHERE rn = 1    
 ```
+
+### 留存
+> https://blog.csdn.net/chenpe32cp/article/details/85068184
